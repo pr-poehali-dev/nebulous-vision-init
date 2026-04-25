@@ -62,7 +62,7 @@ export default function Footer() {
             <p className="text-foreground font-mono font-normal text-base">Видео-уроки доступны прямо в Telegram</p>
           </div>
 
-          <a href="https://t.me/" target="_blank" rel="noopener noreferrer">
+          <a href="https://t.me/deepailearn_bot" target="_blank" rel="noopener noreferrer">
             <button className="bg-primary text-primary-foreground px-8 py-4 rounded-full font-semibold text-lg whitespace-nowrap hover:scale-105 hover:shadow-[0_0_20px_hsl(var(--primary)/0.5)] transition-all duration-300 font-mono flex items-center gap-2">
               Перейти в Telegram-бот
               <svg
