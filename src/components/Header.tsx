@@ -6,7 +6,7 @@ export default function Header() {
     <header className="fixed top-0 left-0 right-0 z-50 bg-background/0 backdrop-blur-sm">
       <div className="flex items-center justify-between px-6 py-4 text-transparent">
         <div className="flex items-center gap-3">
-          <span className="text-foreground font-mono font-bold text-sm tracking-widest">DEEPFAKE / КУРС</span>
+          <span className="text-foreground font-mono font-bold text-sm tracking-widest">ЦифрИИк</span>
         </div>
 
         <div className="flex items-center gap-2">
